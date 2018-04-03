@@ -1,6 +1,9 @@
-= Testimoni Pembeli
+= Testimoni Pelanggan
 // See https://hubpress.gitbooks.io/hpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
+
+
+Disinilah kami merangkum daftar pelanggan yang menggunakan jasa kami , dan pelanggan memberikan testimoni bahwa kami memang terpercaya dan profesional dan pelayanan yang kami berikan.
