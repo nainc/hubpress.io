@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "saga"
+  },
+  "urls": {
+    "site": "https://nainc.github.io",
+    "hubpress": "https://nainc.github.io",
+    "theme": "//nainc.github.io/themes/saga",
+    "images": "https://nainc.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
