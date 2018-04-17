@@ -1,6 +1,6 @@
 = Pulsa Semua Operator Semua Negara
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
+:hp-image: https://user-images.githubusercontent.com/38031288/38844906-97030eca-421f-11e8-88ed-b540992fea2f.png
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
