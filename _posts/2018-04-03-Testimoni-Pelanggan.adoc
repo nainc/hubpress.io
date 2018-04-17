@@ -6,4 +6,4 @@ Disinilah kami merangkum daftar pelanggan yang menggunakan jasa kami , dan pelan
 
 image::https://user-images.githubusercontent.com/38031288/38844433-a0446e04-421d-11e8-8864-c42a6826f156.jpeg[Testi]
 
-image:: https://user-images.githubusercontent.com/38031288/38844433-a0446e04-421d-11e8-8864-c42a6826f156.jpeg[coba]
+image::https://user-images.githubusercontent.com/38031288/38844868-754a900a-421f-11e8-9283-d8af4fb27eb7.jpeg[coba]
