@@ -1,6 +1,6 @@
 = Komentar Instagram Real Human
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
+:hp-image: https://user-images.githubusercontent.com/38031288/38844878-7994b758-421f-11e8-8c16-2e4beaaf1591.jpeg
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
@@ -8,3 +8,5 @@
 
 Banyak pelanggan kami mengeluh sudah mendapat jasa like  dan folllower instagram yang banyak tetapi sedikit yang berkomentar dalam postingannya.
 Oleh karena itu kami menghadirkan produk jasa komentar instagram asli manusia.
+
+image::https://user-images.githubusercontent.com/38031288/38844878-7994b758-421f-11e8-8c16-2e4beaaf1591.jpeg
