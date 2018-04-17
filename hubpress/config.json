@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "saga"
   },
   "urls": {
     "site": "https://nainc.github.io",
     "hubpress": "https://nainc.github.io",
-    "theme": "//nainc.github.io/themes/saga",
+    "theme": "//nainc.github.io/themes/uno",
     "images": "https://nainc.github.io/images"
   },
   "initialisationConfigComponent": {
