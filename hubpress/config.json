@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://nainc.github.io",
     "hubpress": "https://nainc.github.io",
-    "theme": "//nainc.github.io/themes/uno",
+    "theme": "//nainc.github.io/themes/saga",
     "images": "https://nainc.github.io/images"
   },
   "initialisationConfigComponent": {
