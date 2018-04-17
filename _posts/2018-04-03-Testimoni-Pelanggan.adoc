@@ -7,5 +7,5 @@
 
 
 Disinilah kami merangkum daftar pelanggan yang menggunakan jasa kami , dan pelanggan memberikan testimoni bahwa kami memang terpercaya dan profesional dan pelayanan yang kami berikan.
-:image: https://github.com/nainc/nainc.github.io/blob/master/images/testi2.jpeg
-:image: https://github.com/nainc/nainc.github.io/blob/master/images/testi.jpeg
+image::https://github.com/nainc/nainc.github.io/blob/master/images/testi2.jpeg
+image:https://github.com/nainc/nainc.github.io/blob/master/images/testi.jpeg
