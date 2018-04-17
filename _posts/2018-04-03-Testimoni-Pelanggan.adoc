@@ -1,11 +1,9 @@
 = Testimoni Pelanggan
 // See https://hubpress.gitbooks.io/hpress-knowledgebase/content/ for information about the parameters.
 :hp-image: https://user-images.githubusercontent.com/38031288/38844433-a0446e04-421d-11e8-8864-c42a6826f156.jpeg
-// :published_at: 2019-01-31
-// :hp-tags: HubPress, Blog, Open_Source,
-// :hp-alt-title: My English Title
-
 
 Disinilah kami merangkum daftar pelanggan yang menggunakan jasa kami , dan pelanggan memberikan testimoni bahwa kami memang terpercaya dan profesional dan pelayanan yang kami berikan.
-image:: https://user-images.githubusercontent.com/38031288/38844433-a0446e04-421d-11e8-8864-c42a6826f156.jpeg[Testi]
-image::https://github.com/nainc/nainc.github.io/images/testi.jpeg[]
+
+image::https://user-images.githubusercontent.com/38031288/38844433-a0446e04-421d-11e8-8864-c42a6826f156.jpeg[Testi]
+
+image:: https://user-images.githubusercontent.com/38031288/38844433-a0446e04-421d-11e8-8864-c42a6826f156.jpeg[coba]
