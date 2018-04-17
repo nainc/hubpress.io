@@ -7,5 +7,5 @@
 
 
 Disinilah kami merangkum daftar pelanggan yang menggunakan jasa kami , dan pelanggan memberikan testimoni bahwa kami memang terpercaya dan profesional dan pelayanan yang kami berikan.
-image::http://www.imagebam.com/image/88e397824433803.jpeg[testi]
-image::https://github.com/nainc/nainc.github.io/images/testi.jpeg[testi2]
+image::http://www.imagebam.com/image/88e397824433803.jpeg[]
+image::https://github.com/nainc/nainc.github.io/images/testi.jpeg[]
