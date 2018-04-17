@@ -1,6 +1,6 @@
 = Follower Berkualitas Untuk Instagram
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: /covers/cover.png
+:hp-image: https://user-images.githubusercontent.com/38031288/38844875-7635efdc-421f-11e8-9da2-ca5377902ea6.jpeg
 :published_at: 2019-01-31
 :hp-tags: HubPress, Blog, Open_Source,
 :hp-alt-title: My English Title
