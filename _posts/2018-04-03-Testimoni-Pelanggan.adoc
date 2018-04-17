@@ -1,6 +1,6 @@
 = Testimoni Pelanggan
 // See https://hubpress.gitbooks.io/hpress-knowledgebase/content/ for information about the parameters.
-:hp-image: https://github.com/nainc/nainc.github.io/images/testi.jpeg
+:hp-image: https://github.com/nainc/nainc.github.io/blob/master/images/testi.jpeg
 // :published_at: 2019-01-31
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
